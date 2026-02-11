@@ -1,0 +1,12 @@
+[submodule "libdataobj"]
+	path = libdataobj
+	url = git@github.com:wvgdevt/libdataobj.git
+[submodule "libenet"]
+	path = libenet
+	url = git@github.com:lsalzman/enet.git
+[submodule "magic_enum"]
+	path = magic_enum
+	url = git@github.com:Neargye/magic_enum.git
+[submodule "zlib"]
+	path = zlib
+	url = git@github.com:madler/zlib.git
