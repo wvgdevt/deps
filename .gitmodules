@@ -13,3 +13,6 @@
 [submodule "SFML"]
 	path = SFML
 	url = git@github.com:SFML/SFML.git
+[submodule "fmt"]
+	path = fmt
+	url = git@github.com:fmtlib/fmt.git
